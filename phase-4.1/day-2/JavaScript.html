@@ -1,0 +1,53 @@
+<!-- Variables -->
+
+<!-- using let -->
+<!DOCTYPE html>
+<html>
+
+<body>
+    <p id="demo"></p>
+    <script>
+        let x = 5;
+        let y = 6;
+        let z = x + y;
+        document.getElementById("demo").innerHTML = "The value of z is " + z;
+    </script>
+</body>
+
+</html>
+
+<!-- using const -->
+<!DOCTYPE html>
+<html>
+
+<body>
+    <p id="demo"></p>
+    <script>
+        const a = 2;
+        const b = 4;
+        const c = a + b;
+        document.getElementById("demo").innerHTML = "The value of z is " + c;
+    </script>
+</body>
+
+</html>
+
+<!-- DOM -->
+
+<!--  Events -->
+
+<!DOCTYPE html>
+<html>
+
+<body>
+    <p>Click the button to display the date.</p>
+    <button onclick="displayDate()">The time is?</button>
+    <script>
+        function displayDate() {
+            document.getElementById("demo").innerHTML = Date();
+        }
+    </script>
+    <p id="demo"></p>
+</body>
+
+</html>
