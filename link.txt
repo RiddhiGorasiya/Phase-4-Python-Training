@@ -1,14 +1,18 @@
 Phase 4.1: Frontend Foundations Recap (3 Days)
 Goal: Brush up essential frontend skills required for Django template-based web development.
+
 Day 1: HTML & CSS Basics
 • HTML: Elements, Forms, Tables(https://www.w3schools.com/html/html_tables.asp)(https://www.w3schools.com/html/html_form_elements.asp)
 • CSS: Selectors, Flexbox, Grid, Responsive Design(https://www.w3schools.com/css/css3_flexbox_responsive.asp)(https://www.w3schools.com/css/css_selectors.asp)(https://www.w3schools.com/css/css_grid.asp)(https://www.w3schools.com/css/css_rwd_intro.asp)
+
 Day 2: JavaScript, jQuery, AJAX
 • JavaScript: Variables, DOM, Events(https://www.w3schools.com/js/js_variables.asp)(https://www.w3schools.com/js/js_htmldom.asp)(https://www.w3schools.com/js/js_events.asp)
-• jQuery: DOM Manipulation, Event Binding
-• AJAX: Basics and Form Submission
+• jQuery: DOM Manipulation, Event Binding(https://www.w3schools.com/js/js_jquery_dom.asp)(https://www.w3schools.com/jquery/jquery_events.asp)
+• AJAX: Basics and Form Submission(https://www.w3schools.com/xml/ajax_intro.asp)
+
 Day 3: Bootstrap + Mini Project
-• Bootstrap Forms, Cards, Layouts
+• Bootstrap Forms, Cards, Layouts(https://www.w3schools.com/bootstrap/bootstrap_forms.asp)(https://www.w3schools.com/bootstrap4/bootstrap_cards.asp)(https://getbootstrap.com/docs/5.0/forms/layout/)
 • CSRF setup for Django integration
+
 Mini Project: Responsive login/signup form using Bootstrap and AJAX, simulating frontend
 behavior for Django integration.
