@@ -1,0 +1,98 @@
+<!-- jQuery DOM -->
+
+<!-- Removing HTML Elements -->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+</head>
+
+<body>
+    <h2>Remove an HTML Element</h2>
+    <p id="id01">Hello World!</p>
+    <p id="id02">Hello Sweden!</p>
+
+    <script>
+        $(document).ready(function () {
+            $("#id02").remove();
+        });
+    </script>
+</body>
+
+</html>
+
+<!-- Get Parent Element -->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+</head>
+
+<body>
+    <h2>Getting Parent HTML Element</h2>
+    <p id="01">Hello World!</p>
+    <p id="02">Hello Sweden!</p>
+    <p id="demo"></p>
+    <script>
+        $(document).ready(function () {
+            $("#demo").text($("#02").parent().prop("nodeName"));
+        });
+    </script>
+</body>
+
+</html>
+
+<!-- jQuery Event -->
+
+<!-- Commonly Used jQuery Event Methods -->
+<!-- 1. click() -->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="jquery_min.js"></script>
+</head>
+
+<body>
+    <p>If you click on me, I will disappear.</p>
+    <p>Click me away!</p>
+    <p>Click me too!</p>
+</body>
+
+</html>
+
+<!-- 2. dblclick() -->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="jquery_min.js"></script>
+</head>
+
+<body>
+    <p>If you double-click on me, I will disappear.</p>
+    <p>Click me away!</p>
+    <p>Click me too!</p>
+</body>
+
+</html>
+
+<!-- 3. mouseenter() -->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="jquery_min.js"></script>
+</head>
+
+<body>
+    <p id="p1">Enter this paragraph.</p>
+</body>
+
+</html>
+
