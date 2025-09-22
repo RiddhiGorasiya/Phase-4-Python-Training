@@ -16,3 +16,11 @@ Day 3: Bootstrap + Mini Project
 
 Mini Project: Responsive login/signup form using Bootstrap and AJAX, simulating frontend
 behavior for Django integration.
+
+Phase 4.2: Django Core & Intermediate Concepts (15 Days)
+Goal: Learn core Django functionality with hands-on exercises and a mini project.
+
+Day 1-2: Django Introduction
+• Installation, Project Setup(https://www.youtube.com/playlist?list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc)
+• MVT Architecture
+• Django Admin Configuration
