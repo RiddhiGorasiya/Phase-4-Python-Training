@@ -22,5 +22,5 @@ Goal: Learn core Django functionality with hands-on exercises and a mini project
 
 Day 1-2: Django Introduction
 • Installation, Project Setup(https://www.youtube.com/playlist?list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc)
-• MVT Architecture
+• MVT Architecture(https://www.geeksforgeeks.org/python/django-project-mvt-structure/)
 • Django Admin Configuration
