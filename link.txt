@@ -27,10 +27,10 @@ Day 1-2: Django Introduction
 • CSRF setup for Django integration(https://www.youtube.com/watch?v=9c28ctq1-J0)
 
 Day 3-4: Models and ORM
-• Create Models and Fields(https://www.youtube.com/watch?v=-5qxcQWF0fw&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=31)(https://www.youtube.com/watch?v=Q5b773o8pWU&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=32)
+• Create Models and Fields(https://www.youtube.com/watch?v=-5qxcQWF0fw&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=31)(https://www.youtube.com/watch?v=Q5b773o8pWU&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=32)(https://www.youtube.com/watch?v=kpjNC6drsP8&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=33)
 • URLs(https://www.youtube.com/watch?v=UOAQWcZDBg0&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=14)
 • Templates(https://www.youtube.com/watch?v=7HK1ClVCtjA&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=15)
-• Migrations and ORM Queries
+• Migrations and ORM Queries(https://www.youtube.com/watch?v=ptE5Y2N9i9Q&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=28)(https://www.youtube.com/watch?v=conNUAB0uow&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=27)
 • Using F and Q Objects for complex lookups
 
 Day 5-6: Views & Templates
