@@ -31,7 +31,7 @@ Day 3-4: Models and ORM
 • URLs(https://www.youtube.com/watch?v=UOAQWcZDBg0&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=14)
 • Templates(https://www.youtube.com/watch?v=7HK1ClVCtjA&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=15)
 • Migrations and ORM Queries(https://www.youtube.com/watch?v=ptE5Y2N9i9Q&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=28)(https://www.youtube.com/watch?v=conNUAB0uow&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=27)
-• Using F and Q Objects for complex lookups
+• Using F and Q Objects for complex lookups(https://medium.com/@abdullah.saalim/mastering-f-and-q-expressions-in-django-the-ultimate-guide-720fa04ea3cb)
 
 Day 5-6: Views & Templates
 • Function-Based Views
