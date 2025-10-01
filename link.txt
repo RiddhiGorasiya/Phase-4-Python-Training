@@ -36,7 +36,7 @@ Day 3-4: Models and ORM
 Day 5-6: Views & Templates
 • Function-Based Views
 • Django Templates with Jinja-like Syntax
-• Static/Media Files
+• Static/Media Files(https://www.youtube.com/watch?v=jX90ErC5NR4&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=18)(https://www.youtube.com/watch?v=n6IBUtAqJJA&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=20)
 
 Day 7-8: Forms & User Authentication
 • Forms vs ModelForms
