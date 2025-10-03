@@ -39,7 +39,7 @@ Day 5-6: Views & Templates
 • Static/Media Files(https://www.youtube.com/watch?v=jX90ErC5NR4&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=18)(https://www.youtube.com/watch?v=n6IBUtAqJJA&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=20)
 
 Day 7-8: Forms & User Authentication
-• Forms vs ModelForms
+• Forms vs ModelForms(geeky shows-django 5 mastery from brginner to pro-video 33 to 42)
 • Django Authentication System
 
 Day 9-10: Class-Based Views & URLs
