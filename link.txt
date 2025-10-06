@@ -40,11 +40,18 @@ Day 5-6: Views & Templates
 
 Day 7-8: Forms & User Authentication
 • Forms vs ModelForms(geeky shows-django 5 mastery from brginner to pro-video 33 to 42)
-• Django Authentication System
+• Django Authentication System(https://www.youtube.com/watch?v=Ew8KsRmgbtg&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=50)
+
+• Builtin Authentication in Django(https://www.youtube.com/watch?v=5N9QAwlU7c0&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=101)
+• Custom Filter in Django(https://www.youtube.com/watch?v=PsgvlHX4uxM&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=44)
 
 Day 9-10: Class-Based Views & URLs
-• CBVs: ListView, DetailView, CRUD
+• CBVs: ListView, DetailView, CRUD 
 • Dynamic URLs and Namespaces
+
+• Dynamic URL and Custom Path Converter in Django (https://www.youtube.com/watch?v=ma2slAtUFv4&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=47)
+• Display Success and Error Messages in Django (https://www.youtube.com/watch?v=ydn_rpEr6Ic&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=48)
+• Restrict View based on User Role in Django(https://www.youtube.com/watch?v=w1rv31EQSHo&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=52)
 
 Day 11-12: REST API Introduction
 • Django REST Framework Basics
