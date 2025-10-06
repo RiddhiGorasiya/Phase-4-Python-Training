@@ -20,3 +20,7 @@ def teacher_form_view(request):
     else:
         form = TeacherRegistration()
     return render(request, 'school/teacherreg.html', {'form' : form})
+
+def home(request):
+    context = {'data' : 'Hello I am django devloper. I am also creating custom filters in django.'}
+    return render(request, 'school/home.html', context)
