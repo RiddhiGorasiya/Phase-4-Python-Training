@@ -47,11 +47,19 @@ Day 7-8: Forms & User Authentication
 
 Day 9-10: Class-Based Views & URLs
 • CBVs: ListView, DetailView, CRUD 
-• Dynamic URLs and Namespaces
+• Dynmic URLs and Namespaces(Namespaces=https://www.youtube.com/watch?v=-YOU4ZloxnM&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=104)
 
 • Dynamic URL and Custom Path Converter in Django (https://www.youtube.com/watch?v=ma2slAtUFv4&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=47)
 • Display Success and Error Messages in Django (https://www.youtube.com/watch?v=ydn_rpEr6Ic&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=48)
 • Restrict View based on User Role in Django(https://www.youtube.com/watch?v=w1rv31EQSHo&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=52)
+
+• How to add Bootstrap in Django(https://www.youtube.com/watch?v=iAwGj7Lsltw&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=21)
+• How to add Tailwind CSS in Django(https://www.youtube.com/watch?v=FnMa4QJKa8Y&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=22)
+• How to add Tailwind CSS 4 in Django 5 using TailwindCSS CLI(https://www.youtube.com/watch?v=itfk0bCUtXU&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=23)
+• Setup Django Async Server ASGI using Daphne(https://www.youtube.com/watch?v=w6PNUGAJDEA&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=79)
+• Setup Django Async Server ASGI using Uvicorn(https://www.youtube.com/watch?v=kitpcJEnZZE&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=80)
+• Django Async View Difference between Sync and Async View in Django(https://www.youtube.com/watch?v=eW8aHcCn-G8&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=81)
+• 
 
 Day 11-12: REST API Introduction
 • Django REST Framework Basics
