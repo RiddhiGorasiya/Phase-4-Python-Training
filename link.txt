@@ -46,7 +46,7 @@ Day 7-8: Forms & User Authentication
 • Custom Filter in Django(https://www.youtube.com/watch?v=PsgvlHX4uxM&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=44)
 
 Day 9-10: Class-Based Views & URLs
-• CBVs: ListView, DetailView, CRUD 
+• CBVs: ListView, DetailView, CRUD(https://www.youtube.com/watch?v=6_HJp8YGz2I&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=86)
 • Dynmic URLs and Namespaces(Namespaces=https://www.youtube.com/watch?v=-YOU4ZloxnM&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=104)
 
 • Dynamic URL and Custom Path Converter in Django (https://www.youtube.com/watch?v=ma2slAtUFv4&list=PLbGui_ZYuhigUfO47FLx4ocfmo1071hlc&index=47)
